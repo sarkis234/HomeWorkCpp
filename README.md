@@ -16,5 +16,6 @@
 - [Home Work #14](HomeWork14) - указатели
 - [Home Work #15](HomeWork15) - динамические массивы
 - [Home Work #16](HomeWork16) - дз за 14.04
+- [20.04.2024](20.04.2024) - дз за 20.04
 - [Home Work #17](HomeWork17) - динамические массивыи и paint
 - [Home Work #18](HomeWork18) - строки
