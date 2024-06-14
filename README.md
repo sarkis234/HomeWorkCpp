@@ -19,3 +19,4 @@
 - [20.04.2024](20.04.2024) - дз за 20.04
 - [Home Work #17](HomeWork17) - динамические массивыи и paint
 - [Home Work #18](HomeWork18) - строки
+- [Rock Papper Scissors](rockPapperScissors) - камень ножницы бумага
