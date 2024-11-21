@@ -89,4 +89,5 @@ void Home::print()
 
 Home::~Home()
 {
+	delete[] this->flats;
 }
