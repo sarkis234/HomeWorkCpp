@@ -1,10 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 #include "List.h";
-template <typename T>
-void operator<<(ostream& out, List<T>& list) {
-	list.print();
-}
+
 int main()
 {
 	List<int> list;
