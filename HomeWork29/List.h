@@ -150,8 +150,5 @@ public:
 			delete p;
 			p = p->next;
 		}
-	}
-	ostream& operator<<(ostream& out, List list){
-		
 	}	
 };
