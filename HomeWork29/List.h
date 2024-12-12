@@ -41,7 +41,7 @@ public:
 	}
 	void pushIndex(T value, int index) {
 		if (index >= this->getSize()) {
-			pushBack(value); // если индекс за рамками массива, элемент добавляется в конец
+			pushBack(value); // ГҐГ±Г«ГЁ ГЁГ­Г¤ГҐГЄГ± Г§Г  Г°Г Г¬ГЄГ Г¬ГЁ Г¬Г Г±Г±ГЁГўГ , ГЅГ«ГҐГ¬ГҐГ­ГІ Г¤Г®ГЎГ ГўГ«ГїГҐГІГ±Гї Гў ГЄГ®Г­ГҐГ¶
 		}
 		else if (index <= 0) {
 			pushStart(value);
@@ -151,4 +151,7 @@ public:
 			p = p->next;
 		}
 	}
+	ostream& operator<<(ostream& out, List list){
+		
+	}	
 };
